@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="title">Ini Judul</string>
+    <string name="description">Ini Deskripsi</string>
+    <string name="review">Ini Review</string>
+    <string name="send">Send</string>
+</resources>
